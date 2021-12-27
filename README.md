@@ -1,1 +1,1 @@
-# bootcamp--inter-Frontend-Developer
+# bootcamp-inter-Frontend-Developer
